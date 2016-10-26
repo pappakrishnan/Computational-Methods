@@ -8,16 +8,27 @@ Numerical methods are applied (i) when no closed form solution exists for an equ
 There are numerous problems in science that fall into this category. I have applied few powerful numerical methods to comeup with an accurate solution to the problems.
 
 Numerical methods used:
+
 1. Euler method
+
 2. Modified-Euler method
+
 3. Ranga-Kutta method
+
 4. Monte Carlo method
+
 5. Newton-Raphson method
+
 6. Matrix regularization techniques
 
 Applications:
+
 1. Satellite trajectory - from earth to moon
+
 2. Oscillator damping
+
 3. Series resistance
+
 4. Si carrier concentration
+
 5. USA mortality rate
